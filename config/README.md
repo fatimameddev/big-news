@@ -1,0 +1,1 @@
+le repertoire config contient toute les donnees 
